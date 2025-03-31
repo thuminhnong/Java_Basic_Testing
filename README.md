@@ -1,2 +1,2 @@
-# Java_Basic_Testing
+# JavaBasic
 Project java basic of test automation 
